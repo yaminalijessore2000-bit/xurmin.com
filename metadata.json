@@ -1,0 +1,6 @@
+{
+  "name": "XURMIN – Premium Home & Lifestyle Shopping",
+  "description": "Discover quality home, kitchen, and lifestyle products carefully selected for modern living in Bangladesh with fast nationwide delivery and Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
